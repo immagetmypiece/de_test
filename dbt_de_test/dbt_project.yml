@@ -33,4 +33,4 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   dbt_ch_de_test:
     de_test_tasks:
-        +materialized: view
+        +materialized: table
