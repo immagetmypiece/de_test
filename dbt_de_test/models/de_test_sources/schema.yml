@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+- name: de_test_sources
+  schema: default
+  tables:
+  - name: manager_departments
+  - name: payments
